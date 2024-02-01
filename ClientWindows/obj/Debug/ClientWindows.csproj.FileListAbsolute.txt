@@ -1,0 +1,8 @@
+D:\projects\hxdyjx\Li\ClientWindows\bin\Debug\ClientWindows.exe
+D:\projects\hxdyjx\Li\ClientWindows\bin\Debug\ClientWindows.pdb
+D:\projects\hxdyjx\Li\ClientWindows\obj\Debug\ClientWindows.csproj.AssemblyReference.cache
+D:\projects\hxdyjx\Li\ClientWindows\obj\Debug\ClientWindows.Properties.Resources.resources
+D:\projects\hxdyjx\Li\ClientWindows\obj\Debug\ClientWindows.csproj.GenerateResource.cache
+D:\projects\hxdyjx\Li\ClientWindows\obj\Debug\ClientWindows.csproj.CoreCompileInputs.cache
+D:\projects\hxdyjx\Li\ClientWindows\obj\Debug\ClientWindows.exe
+D:\projects\hxdyjx\Li\ClientWindows\obj\Debug\ClientWindows.pdb

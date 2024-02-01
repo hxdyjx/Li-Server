@@ -1,2 +1,11 @@
 # Li
-windows remote  go（server） C#（client） ，Repository name：离卦（附着）
+
+## introduce
+
+windows remote  go（server） C#（client） ，Repository name：Li Gua,NickName:adhesion
+
+## feature
+
+## QuickStart
+
+## architecture
